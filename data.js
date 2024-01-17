@@ -221,7 +221,7 @@ var APP_DATA = {
       "infoHotspots": []
     }
   ],
-  "name": "Project Title",
+  "name": "Vikkstar123's Gaming Room Tour",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": true,
